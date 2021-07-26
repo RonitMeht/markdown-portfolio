@@ -1,3 +1,1 @@
-Food
-Sports
-Cars
+Food - Sports - Cars
